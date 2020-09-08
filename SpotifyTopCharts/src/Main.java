@@ -7,7 +7,12 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.File;
-
+/**
+ * Read in spotify top charts csv into a 2d array and formatted the output
+ *
+ * @author Jacky chan
+ * @version 1.0
+ */
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
 
